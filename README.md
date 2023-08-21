@@ -64,8 +64,11 @@ Si no logra acceder agrega la siguiente URL para acceder al proeycto http://loca
 ## Roadmap
 
 -Mejora de seguridad para la inyeccion de codigo SQL 
+
 -Crear la funcion de busqueda de facturas o usuarios en el programa 
--Agregar roles de seguridad para tener todo dividido 
+
+-Agregar roles de seguridad para tener todo separado
+
 -Cambiar interaz de inicio de sesion 
 
 
