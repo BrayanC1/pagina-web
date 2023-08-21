@@ -69,6 +69,9 @@ Si no logra acceder agrega la siguiente URL para acceder al proeycto http://loca
 
 -Crear la funcion de busqueda de facturas o usuarios en el programa 
 
+##Licence 
+Unlicense
+
 -Agregar roles de seguridad para tener todo separado
 
 -Cambiar interaz de inicio de sesion 
