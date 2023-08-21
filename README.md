@@ -17,7 +17,7 @@ El proyecto ayuda al area de compras a tener un lugar donde almacenar sus factur
 
 ### Arquitectura
 
-El proyecto esta construido en php, utilice mysql como base de datos y como servidor loca Laragon
+El proyecto esta construido en php, utilice mysql como base de datos y como servidor local Laragon
 
 ## Tabla de Contenidos
 
@@ -27,7 +27,9 @@ El proyecto esta construido en php, utilice mysql como base de datos y como serv
 
 ## Requerimietos
 Servidores de aplicación, web, bases de datos, etc.
+
 Paquetes adicionales como Bulma.
+
 Versión de PHP (ejemplo: PHP 8.1.0).
 
 ## Instalación
